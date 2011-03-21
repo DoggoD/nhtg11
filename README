@@ -1,0 +1,19 @@
+README
+------
+
+The contents of this git repository is for use with National Hack The Government Day 
+(http://bit.ly/gVfNTK).  Ideas should be described herein :)
+
+Chris 21-03-2011:
+I found a very fun bit of data that might give you two a few ideas
+
+http://scraperwiki.com/scrapers/met-police-crime-data-by-sub-ward/
+
+The web interface for this is here : http://maps.met.police.uk/
+
+The great thing is that if you dig through you will find a far more interesting URL namely this one : http://maps.met.police.uk/php/dataview.php?area=00AB&ct=8&sort=area&order=a
+
+Which already has the googlemap with co-ordinates just ripe for the taking.  Here is what I am thinking.
+
+We 'simulate' you as a criminal, you have a choice in each borough to do some sort of crime and/or even move to a different borough, travel should happen in realtime (with the ability to accelerate the clock) so if you choose to walk we can actually get google map to tell us how long it will take by foot, bus or car, what do you mean you don't have a car, steal one:-p.  We could factor in trains too, (tfl?) no idea how.  The more crime you commit the more 'heat' you have, you can wait for heat to die down but the more heat you get the more likely you are to be caught, of course if you stay in the area you committed the crime then heat will reduce at a slower rate.
+
