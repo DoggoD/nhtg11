@@ -17,3 +17,14 @@ Which already has the googlemap with co-ordinates just ripe for the taking.  Her
 
 We 'simulate' you as a criminal, you have a choice in each borough to do some sort of crime and/or even move to a different borough, travel should happen in realtime (with the ability to accelerate the clock) so if you choose to walk we can actually get google map to tell us how long it will take by foot, bus or car, what do you mean you don't have a car, steal one:-p.  We could factor in trains too, (tfl?) no idea how.  The more crime you commit the more 'heat' you have, you can wait for heat to die down but the more heat you get the more likely you are to be caught, of course if you stay in the area you committed the crime then heat will reduce at a slower rate.
 
+Also found this for more data fun : http://maps.met.police.uk/tables.htm
+
+Chris 21-03-2011:
+Improve the rather terrible court finder
+http://www.hmcourts-service.gov.uk/HMCSCourtFinder/SearchList.do
+
+Im thinking GMap, Ajax, searchable by all sorts of type etc.
+
+Chris 21-03-2011:
+Some interesting PDF's http://www.tfl.gov.uk/corporate/about-tfl/14692.aspx
+Homeoffice Crime publications : http://www.homeoffice.gov.uk/publications/crime/
